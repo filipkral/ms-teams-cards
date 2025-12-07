@@ -18,6 +18,8 @@ If you cannot locate the folder where Microsoft Teams takes the background image
 
 ![after joining](how-to-after-joining.jpg "Upload images during joining a meeting")
 
+![demo](demo.jpg "Demo indicating an item of complexity 'L'")
+
 # About story pointing
 Story pointing is often used in agile development to estimate *relative* complexity of implementing certain user stories or other work items. The assigned story points should indicate how complex an implementation is considering factors such as complexity of the business logic to implement, uncertainty, risks, unknowns, or potential blockers and dependencies. The assessment is relative to other work items the team has assessed.
 
